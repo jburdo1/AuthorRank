@@ -8,7 +8,7 @@ setup(
     author='Valentino Constantinou, Annie Didier',
     author_email='akdidier@jpl.caltech.edu',
     url='https://github.com/jburdo1/AuthorRank',
-    download_url='https://github.com/jburdo1/AuthorRank/dist/0.1.2.tar.gz',
+    download_url='https://github.com/jburdo1/AuthorRank/dist/1.zip',
     keywords=['author_rank', 'PageRank', 'network', 'graph', 'edges', 'nodes', 'authorship', 'AuthorRank'],
     classifiers=[],
     license='MIT',
